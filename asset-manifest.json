@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Masterclass-assignment-Day2-/static/css/main.ffc97e0d.css",
+    "main.js": "/React-Masterclass-assignment-Day2-/static/js/main.708a5ca6.js",
+    "index.html": "/React-Masterclass-assignment-Day2-/index.html",
+    "main.ffc97e0d.css.map": "/React-Masterclass-assignment-Day2-/static/css/main.ffc97e0d.css.map",
+    "main.708a5ca6.js.map": "/React-Masterclass-assignment-Day2-/static/js/main.708a5ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc97e0d.css",
+    "static/js/main.708a5ca6.js"
+  ]
+}
